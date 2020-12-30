@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\DoctorDataGried.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\DoctorDataGried.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\DoctorDataGried.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\DoctorDataGried.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\ref\DoctorDataGried.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\bin\Debug\net5.0\DoctorDataGried.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\ref\DoctorDataGried.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctorsHW\DoctorDataGried.DAL\obj\Debug\net5.0\DoctorDataGried.DAL.genruntimeconfig.cache
